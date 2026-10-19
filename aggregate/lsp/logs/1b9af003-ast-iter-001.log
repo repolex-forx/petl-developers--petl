@@ -1,0 +1,7 @@
+[2026-10-19T12:40:57Z] === AST ITERATION 1 START | repo=petl-developers/petl sha=1b9af003 ===
+[2026-10-19T12:40:57Z] [iter=1] PHASE START: ast repo=petl-developers/petl sha=1b9af003
+[2026-10-19T12:40:57Z] [iter=1] Building AST aggregate chunks
+[2026-10-19T12:42:28Z] [iter=1] AST chunks built count=1 triples=1608037
+[2026-10-19T12:42:28Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/1b9af0030e9563089f2519ef427effecd2d55a9b/.complete
+[2026-10-19T12:42:28Z] [iter=1] PHASE END: ast elapsed_s=91 elapsed_min=1.5
+[2026-10-19T12:42:28Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json

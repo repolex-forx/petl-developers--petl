@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/petl-developers/petl/commit/1b9af0030e9563089f2519ef427effecd2d55a9b",
       "git:hexsha": "1b9af0030e9563089f2519ef427effecd2d55a9b",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v1.7.30"
     },
     {
